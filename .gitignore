@@ -1,0 +1,19 @@
+# Local settings and credentials
+.env
+.env.*
+!.env.example
+.aws/
+.codex/
+.agents/
+.DS_Store
+Thumbs.db
+
+# Runtime and build output
+node_modules/
+__pycache__/
+*.log
+deploy/
+*.zip
+
+# Unrelated video experiments
+generated-video/
