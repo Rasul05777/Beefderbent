@@ -143,3 +143,7 @@ Cream #f7f4ed, burgundy #681f2b, ink #282a23. Photographic split hero, editorial
 New composition informed by Nixtio Meat Shop, Onyx Coffee Lab, and Dinner by Heston. Full-width photographic hero, serif headline, asymmetrical editorial category cards, tabbed catalogue with search and price sorting, contrasting light story section, local contact section. Warm charcoal #181a16, cream #ede8dd, terracotta #d78865. Preserved first concept under /light/.
 
 Verification: JavaScript syntax check; browser checks for adding/removing basket items, total 850 RUB for one steak, ascending price sorting, search for cherry tomatoes, category filter; 1280px and 390px layouts without document overflow; no broken loaded images.
+
+
+## Black/red interface — 19 November 2026
+Implemented from the supplied screenshot: #03070b background, #ed0025 accent, bold Golos Text, outlined bull logo in native SVG, category line icons, red curved ribbon, order empty state. Shared theme-red.css applies to the homepage, catalog and product scaffold. Previous gold interface archived at /gold-v1/. Products intentionally remain empty. Verified home at 1600px and 390px, category navigation, category search, order dialog.
