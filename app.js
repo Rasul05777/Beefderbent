@@ -1,4 +1,4 @@
-import {categories,products} from './catalog-data.js';
+import {categories,products} from './catalog-data.js?v=20261121-2';
 const icons={search:'<circle cx="10.5" cy="10.5" r="7.5"/><path d="m16 16 5 5"/>',user:'<circle cx="12" cy="7" r="4"/><path d="M4 22v-3a8 8 0 0 1 16 0v3H4Z"/>',bag:'<path d="M5 7h14v15H5zM9 9V5a3 3 0 0 1 6 0v4"/>',pin:'<path d="M20 10c0 6-8 12-8 12S4 16 4 10a8 8 0 1 1 16 0Z"/><circle cx="12" cy="10" r="2.5"/>',arrow:'<path d="M3 12h18m-6-6 6 6-6 6"/>',phone:'<path d="m6 3 4 5-3 3c2 4 3 5 7 7l3-3 5 4c-3 8-12 1-16-3S-2 5 6 3Z"/>'};
 Object.assign(icons, {
 meat:'<path d="M3 9c2-5 9-7 15-3 4 3 4 9 0 12-4 3-8 0-12 1-4 0-5-6-3-10Z"/><path d="M3 11v6c0 4 6 5 9 4 5 0 10-2 9-7"/><ellipse cx="13" cy="10" rx="4" ry="2.5"/>',

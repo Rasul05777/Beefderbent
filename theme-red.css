@@ -29,3 +29,5 @@ dialog{background:#090f17;border-color:#334153;border-radius:20px;padding:32px}d
 /* Decorative ribbon stays outside the content flow without creating horizontal scroll. */
 body{overflow-x:clip}
 #app{overflow:hidden}
+/* Reference proportions: compact hero, with the category grid directly underneath. */
+@media(min-width:1600px){.hero{min-height:385px}.hero h1{font-size:60px}}
