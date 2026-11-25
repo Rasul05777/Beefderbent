@@ -26,7 +26,8 @@ export const categories = [
 {slug:'griby',name:'Грибы',image:'assets/vegetables.jpg'},
 {slug:'gotovye-bliuda',name:'Готовые блюда',image:'assets/steak.jpg'},
 {slug:'gazirovannye-napitki',name:'Газированные напитки',image:'assets/reference/juice.jpg'},
-{slug:'frukty-i-iagody',name:'Фрукты и ягоды',image:'assets/vegetables.jpg'}
+{slug:'frukty-i-iagody',name:'Фрукты и ягоды',image:'assets/vegetables.jpg'},
+{slug:'polufabrikaty',name:'Полуфабрикаты',image:'assets/categories/meat.webp',description:'Полуфабрикаты для быстрого приготовления любимых блюд.'}
 ];
 // Наполнение позже: {slug, category: category.slug, name, description, image, price, unit}.
 // price — число в рублях, image — путь к реальной фотографии товара.
